@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
-namespace DatingApp.API.Controllers
+namespace WilkyFinance.API.Controllers
 {
     [Route("api/[controller]")] //values is used because of "ValuesController" name convention
     [ApiController]
